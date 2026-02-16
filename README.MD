@@ -89,7 +89,7 @@ Cada dimensão foi criada com:
 - Relacionamentos unidirecionais  
 - Chaves inteiras  
 - Alta performance em consultas DAX  
-
+![alt text](Images/StarSchema.png)
 ---
 
 ## 📐 Criação das Medidas (C# – Tabular Editor)
